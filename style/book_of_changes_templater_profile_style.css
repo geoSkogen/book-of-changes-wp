@@ -1,0 +1,91 @@
+h1, h2, h3, h4, h5 {
+  text-align:center;
+}
+
+h1 {
+  margin: 0 0 0.5em 0;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 32px;
+  margin: 0 0 0.5em 0;
+}
+
+li.nav-option {
+  margin: 0 0.5em 0 0.5em;
+  max-width: 60px;
+  min-width: 60px;
+}
+
+#badge-frame {
+  padding: 0.2em;
+  margin: 0.2em;
+  background-color: white;
+  max-width: 75px;
+  min-width: 75px;
+  text-align: center;
+  border-radius: 100%;
+}
+
+#badge-img {
+
+}
+
+div#form-wrap,
+div#profile-wrap {
+  width: 100%;
+}
+
+form.login {
+
+}
+
+input.login-form,
+.new-profile-input,
+.edit-profile-input {
+  padding: 0.75em;
+  font-size: 20px;
+  margin: 0.5em;
+  max-width: 200px;
+  min-width: 200px;
+  color: cornflowerblue;
+  font-weight: 800;
+  border-radius:6px;
+}
+
+div.form-wrapper {
+
+}
+
+.error {
+  border: 2px solid red;
+}
+
+a.login-anchor {
+  padding: 0.5;
+  margin: 1em 0.25em 0 0.25em;
+}
+
+.toggle-in, .toggle-it {
+   padding: 0.5em;
+
+ }
+
+ .toggle-it,
+ .no-toggle {
+   font-size: 14px;
+   padding-top: 1em;
+ }
+
+ #lock-icon-wrapper {
+   margin-top: -1em;
+ }
+
+ #no-form {
+   display:none;
+ }
+
+ #profile-header {
+   padding-top: 1.5em;
+ }

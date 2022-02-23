@@ -1,0 +1,75 @@
+#first-hex,#first-trigram-col {
+  margin-top: 2em;
+}
+
+.trigrams {
+  max-width: 25%;
+  min-width: 25%;
+  padding: 0.5em;em 0 0.5em 0.5em;
+  //border: 1px solid white;
+}
+
+.trigram {
+  text-align: center;
+  max-width: 100%;
+  min-width: 100%;
+  margin: 0.66em;
+  padding: 0.66em;
+  font-weight: 600;
+}
+
+.line-frame {
+  cursor: pointer;
+}
+
+@media screen and (min-width: 900px) {
+  #second-hex-name {
+    margin-right: 20%;
+  }
+}
+/*
+.meta-col-tab {
+  height: 1.66em;
+  border-radius: 6.33px 6.33px 0 0;
+  max-width: 33%;
+  min-width: 33%;
+  padding-top: 0.66em;
+  text-align: center;
+  color: whitesmoke;
+  background-color: rgb(50,50,50);
+  font-weight: 700;
+  opacity: 0.72;
+  cursor: pointer;
+}
+
+#meta-col-tabs {
+  width:100%;
+  margin-top: 1.33em;
+}
+
+@media screen and (min-width: 900px) {
+  #meta-col-tabs {
+    width: 60%;
+    justify-content: center;
+  }
+}
+
+#meta-cols {
+  width:100%;
+}
+
+.meta-col-builder {
+  max-width : 95%;
+  min-width: 95%;
+  padding: 0.666em;
+  margin: 0.666em;
+}
+
+#meta-col-inner {
+  display: block;
+}
+
+#meta-col-outer {
+  display: none;
+}
+*/
