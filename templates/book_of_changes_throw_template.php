@@ -133,7 +133,7 @@ class BOC_Throw_Template {
       <div id="first-hex-name" class="hex-name">
         <!-- hexgram title dynamic render text node 1 -->
       </div>
-      <i id="hex-mover" class="fas fa-arrow-alt-circle-right"></i>
+      <i id="hex-mover" class="fa fa-arrow-circle-o-right"></i>
       <div id="second-hex-name"  class="hex-name">
         <!-- hexgram title dynamic render text node 2 -->
       </div>
@@ -146,8 +146,8 @@ class BOC_Throw_Template {
 
     <!-- footer icons -->
   <div id="footer-wrap" class="flex-row flex-between">
-    <i id="hex-refresh" class="fas fa-retweet" ></i>
-    <i id="hex-archive" class="far fa-folder" ></i>
+    <i id="hex-refresh" class="fa fa-refresh" ></i>
+    <i id="hex-archive" class="fa fa-folder" ></i>
   </div>
     <?php
 

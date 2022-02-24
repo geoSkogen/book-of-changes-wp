@@ -35,6 +35,7 @@ div#wheel-inner {
 
 div#results-table {
   width: 100%;
+  //min-height: 72px;
 }
 
 div.hex-name {
@@ -51,6 +52,10 @@ i#hex-mover {
   //margin: 0.1em;
   //padding: 0.25em;
   display: none;
+}
+
+#second-hex {
+  min-height: 200px;
 }
 
 .control {
